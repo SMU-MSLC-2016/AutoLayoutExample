@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					B6ACF2971DC1684D00C98176 = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = APD62CDC25;
 						ProvisioningStyle = Automatic;
 					};
 					B6ACF2AB1DC1684E00C98176 = {
@@ -410,6 +411,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = APD62CDC25;
 				INFOPLIST_FILE = AutoLayoutExamples/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = SMU.AutoLayoutExamples;
@@ -422,6 +424,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = APD62CDC25;
 				INFOPLIST_FILE = AutoLayoutExamples/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = SMU.AutoLayoutExamples;
